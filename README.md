@@ -1,4 +1,4 @@
-# clase..
+# clase...
 # Sitio estático (GitHub → Vercel)
 
 HTML semántico + CSS en la **raíz** del repo.
